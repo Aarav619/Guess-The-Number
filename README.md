@@ -12,7 +12,6 @@ Install playsound with pip
 
 ```bash
   pip install playsound
-  cd my-project
 ```
 For python version older than 3.x install Random
 
