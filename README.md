@@ -15,13 +15,11 @@ Install playsound with pip
 ```
 For python version older than 3.x install Random
 
-```
-  pip install random
-
+```  pip install random
 ```
 ## Usage
 
-```
+```bash
   git clone https://github.com/Aarav619/Guess-The-Number.git
   cd Guess-The-Number && python3 guesstheno.py
 ```
