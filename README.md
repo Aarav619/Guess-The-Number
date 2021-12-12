@@ -15,7 +15,8 @@ Install playsound with pip
 ```
 For python version older than 3.x install Random
 
-```  pip install random
+```  
+pip install random
 ```
 ## Usage
 
